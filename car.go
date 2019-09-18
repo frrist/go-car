@@ -13,7 +13,7 @@ import (
 	format "github.com/ipfs/go-ipld-format"
 	dag "github.com/ipfs/go-merkledag"
 
-	util "github.com/ipfs/go-car/util"
+	util "github.com/frrist/go-car/util"
 )
 
 func init() {

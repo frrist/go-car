@@ -1,4 +1,4 @@
-module github.com/ipfs/go-car
+module github.com/frrist/go-car
 
 require (
 	github.com/ipfs/go-block-format v0.0.2
